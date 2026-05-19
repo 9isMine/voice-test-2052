@@ -1,0 +1,50 @@
+{
+  "6a03cb136a0f234afd09df93": {
+    "locales": {
+      "en": "Ghost 2"
+    },
+    "name": "Ghost 2",
+    "bundlePath": "voices/ghost2/Voices/ghost2_voice.bundle",
+    "addVoiceToPlayer": true
+  },
+  "69fa8039c27fb9241757ced8": {
+    "locales": {
+      "en": "Ghost"
+    },
+    "name": "Ghost",
+    "bundlePath": "voices/Ghost/Voices/ghost_voice.bundle",
+    "addVoiceToPlayer": true
+  },
+  "690de7656fbd179852fba257": {
+    "locales": {
+      "en": "Bad Cop"
+    },
+    "name": "Bad Cop",
+    "bundlePath": "voices/badcop/Voices/badcop_voice.bundle",
+    "addVoiceToPlayer": true
+  },
+  "69c3100ba6ba7b2073037596": {
+    "locales": {
+      "en": "Ada Wong"
+    },
+    "name": "Ada Wong",
+    "bundlePath": "voices/AdaWong/Voices/adawong_voice.bundle",
+    "addVoiceToPlayer": true
+  },
+  "69c3100ba6ba7b2073037597": {
+    "locales": {
+      "en": "Stalker Bandit"
+    },
+    "name": "Stalker Bandit",
+    "bundlePath": "voices/Bandit/Voices/bandit_voice.bundle",
+    "addVoiceToPlayer": true
+  },
+  "69c3100ba6ba7b2073037598": {
+    "locales": {
+      "en": "Talon"
+    },
+    "name": "Talon",
+    "bundlePath": "voices/Talon/Voices/talon_voice.bundle",
+    "addVoiceToPlayer": true
+  }
+}
